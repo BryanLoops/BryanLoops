@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Bryan, QA Analyst and developer on my free time! 
+### Feel free to look around!
+### I hope the best for you! 👋
 
 <!--
 **BryanLoops/BryanLoops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
